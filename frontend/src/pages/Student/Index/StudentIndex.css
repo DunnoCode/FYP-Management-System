@@ -1,0 +1,14 @@
+#StudentIndexBase{
+    min-height: inherit;
+    min-width: inherit;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    font-size: 40px;
+}
+
+#StudentIndexBase #GroupStatus{
+    margin-top: 2vh;
+    font-size: 0.9em;
+}
